@@ -1,3 +1,7 @@
+----------
+**This is deprecated, see my new repo https://github.com/jonniedie/AdventOfCode**
+----------
+
 # Advent of Code 2020
 
 To run any of these examples, use the `run_day` function.
