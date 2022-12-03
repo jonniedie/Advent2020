@@ -1,6 +1,6 @@
 module EventUtils
 
-export run_day, make_my_day, download_input
+export initialize_year, run_day, download_input
 
 using Dates: year, day, today
 using InteractiveUtils: edit
